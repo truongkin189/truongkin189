@@ -1,6 +1,6 @@
-### Hi, I'm NguyenHoangThang (Nht98).
+### Hi, I'm TranNhatTruong (TNT98).
 
-I'm Nguyen Hoang Thang, a full stack developer with 3 years of experience in JavaScript technologies and 2 year of experience in Mobile , with good knowledge of Database Design, Design Pattern, Object-Oriented Analysis and Design. Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups. I can also do some mentoring tasks and do code reviewing for other team members. I like helping other and work well with group. I can also do some mentoring tasks and code reviewing for other members .
+I'm Tran Nhat Truong, a full stack developer with 3 years of experience in PHP technologies with good knowledge of Database Design, Design Pattern, Object-Oriented Analysis and Design. Learning new languages and technologies is what I am passionate about. I am considered a team-player because I like to help other and tend to work well within groups. I can also do some mentoring tasks and do code reviewing for other team members. I like helping other and work well with group. I can also do some mentoring tasks and code reviewing for other members .
 
 ### Connect with me:
 
