@@ -7,7 +7,6 @@ I'm Tran Nhat Truong, a full stack developer with 3 years of experience in PHP t
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][gmail]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -36,8 +35,7 @@ I'm Tran Nhat Truong, a full stack developer with 3 years of experience in PHP t
 <img align="left" alt="Nht98 Github Stats" src="https://github-readme-stats.vercel.app/api?username=truongkin189&show_icons=true&hide_border=true" />
 
 [github]: https://github.com/truongkin189
-[gitlab]: https://gitlab.com/nht98
-[facebook]: https://www.facebook.com/dev.flutter9x
-[instagram]: https://www.instagram.com/flutter9x.dev
-[gmail]: nht98.dev@gmail.com
-[docker]: https://hub.docker.com/u/nht98
+[gitlab]: https://gitlab.com/truongkin189
+[facebook]: https://www.facebook.com/trannhat.truong.186
+[gmail]: truongnd16121998@gmail.com
+
